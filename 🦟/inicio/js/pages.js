@@ -289,7 +289,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://pay.transacoesbrasilpagamentos.com/checkout/ea53ec8c-0ca2-4c15-8064-d56bedef2a0e';
+    window.location.href = 'https://pay.pagtransacoesbrasil.com/checkout/ea53ec8c-0ca2-4c15-8064-d56bedef2a0e';
   });
 
 }
